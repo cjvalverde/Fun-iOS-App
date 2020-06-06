@@ -9,4 +9,4 @@ It was not possible to connect iPhone to Virtual Mac with VirtualBox due to USB 
 
 last rearanging of label and button postiions.
 
-test
+new line
