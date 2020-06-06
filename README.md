@@ -6,3 +6,5 @@ App has only be tested on iPhone 6s
 Workflow through Apcake does not work anymore, since Apcake has been blocked by iOS
 
 It was not possible to connect iPhone to Virtual Mac with VirtualBox due to USB drivers => changed from VirtualBox to VMWare only to which it was possible to connect iPhone to Virtual Mac. No Appcake needed anymore
+
+last rearanging of label and button postiions.
